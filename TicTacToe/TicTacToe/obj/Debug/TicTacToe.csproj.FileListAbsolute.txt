@@ -1,0 +1,21 @@
+C:\Users\IT\Documents\Felix\CSharp\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\IT\Documents\Felix\CSharp\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\IT\Documents\Felix\CSharp\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\IT\Documents\Felix\CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\IT\Documents\Felix\CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Documents\Felix\CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\IT\Documents\Felix\CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\IT\Documents\Felix\CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\IT\Documents\Felix\CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\IT\Documents\Felix\CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\IT\Documents\Felix\CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+D:\CSharp - Kopie\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\CSharp - Kopie\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\CSharp - Kopie\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\CSharp - Kopie\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\CSharp - Kopie\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+D:\CSharp - Kopie\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\CSharp - Kopie\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\CSharp - Kopie\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\CSharp - Kopie\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\CSharp - Kopie\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
